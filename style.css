@@ -34,3 +34,35 @@ header {
     font-weight: 900;
     line-height:95px;
 }
+/* banner design done */
+/* offer design starts */
+.offer {
+    display: flex;
+    flex-direction:  column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.offer h1 {
+    color: red;
+    font-weight: 107;
+    font-style: bold;
+}
+.offer h4 {
+    color: coral;
+    font-size: 24px;
+    font-weight: 500;
+}
+.offer h3 {
+    color: black;
+    text-align: center;
+    font-family: ;
+    font-size: ;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.offer img {
+    height: 500px;
+}
+/* offer design ends here */
