@@ -154,3 +154,28 @@ background: #F00;
 padding: 15px 35px;
     }
     /* address design ends here */
+    /* new best offer design starts here */
+    .best-offer {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin: 0 auto; 
+        width: 1320px;
+    }
+    .img-circle {
+        height: 400px;
+        width: 400px;
+        border: 15px solid red;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .rhead {
+        color: red;
+        }
+        .lefth {
+            color: red;
+        }
+        /* new best offer design ends here */
+    
