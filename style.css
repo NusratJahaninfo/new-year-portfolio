@@ -179,5 +179,166 @@ padding: 15px 35px;
         }
         /* new best offer design ends here */
         /* holidays sale design starts here */
+        .holidays {
+        }
+        .pos-container {
+            height: 660px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            position: relative;
+        }
         
+        .dis {
+            position: relative;
+        }
+        .bottom,
+        #fifty {
+            position: absolute;
+        }
+        #fifty {
+            left: -70px;
+        }
+        .bottom {
+            bottom: 0;
+        }
+        .two-part {
+            display: flex;
+        }
+        .front {
+            z-index: 999;
+        }
+        #img-width-bag {
+            margin-left: 93px;
+        }
+
+    /* design of holidays ends here */
+    /* design of layout starts here */
+    .bestgift {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .p-img {
+        display: flex;
+        justify-content: center;
+        gap: 24px;
+        margin: 12px 0;
+    }
+    /* design of layout ends here */
+    /* design of mail starts here */
+    .news {
+        width: 100%;
+        height: 600px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #F00;
+
+    }
+    .lette {
+        width: 50vh;
+        height: 500px;
+        color: black;
+        background-color: white;
+    }
+    .block {
+        width: 10vh;
+        height: 2vh;
+        border-radius: 30px;
+        position: absolute;
+    }
+    .button {
+        width: 9vw;
+        height: 5.7vh;
+        position: relative;
+    margin-left: 32.96vw;
+border-radius: 0px 30px 30px 00px;
+border: none;
+background-color: red;
+color: white;
+font-size: 16px;
+font-weight: 700;
+    }
+    .subs {
+        display: flex;
+        gap: 0;
+        align-items: center;
+        justify-content: center;
+        position: inherit;
+
+    }
+    .adj {
+        width: 70vh;
+        height: 25vh;
+        display: flex;
+        justify-content: center;
+    }
+    .pic {
+        position: absolute;
+        width: 10vh;
+        height: 20vh;
+        margin-top: 20px;
+        background-image: url('resources/Group 61.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+
+    }
+    .all {
+        margin-top: 16px;
+    }
+    .all h1 {
+        font-size: 40px;
+        margin: 0;
+        padding: o;
+    }
+/* design of mail ends here */
+    /* design of footer starts here */
+    .xyz {
+        width: 100%;
+        height: 600px;
+        background-color: hwb(240 2% 84%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white ;
     
+    }
+    .abc {
+        width: 70vw;
+        height: 500px;
+        background-color: hwb(240 2% 84%);
+    
+    }
+    .pqr {
+        font-size: 20px;
+        font-weight: 800;
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    .img-pext {
+        display: flex;
+        gap: 16px;
+    }
+    .social-site {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .social-site img {
+        margin: 48px 24px;
+    }
+    hr {
+        color: gray;
+    }
+    .last {
+        font-size: 20px;
+        font-weight: 800;
+        display: flex;
+        justify-content: space-between;
+    }
+    /* design of footer ends here */

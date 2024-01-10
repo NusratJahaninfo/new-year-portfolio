@@ -1,0 +1,29 @@
+.abc {
+    background-color: pink;
+    width: 100%;
+    height: 700px;
+    
+}
+position: relative;
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.lette {
+width: 70vh;
+height: 700px;
+color: black;
+background-color: white;
+}
+.block {
+width: 40vh;
+height: 5vh;
+border-radius: 50px;
+position: absolute;
+}
+.button {
+width: 9vw;
+height: 5.7vh;
