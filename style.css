@@ -241,6 +241,15 @@ margin-left: 100px;
 /* design of mail starts here */
 
 /* design of mail ends here */
+/* design of holidays starts here */
+.holiday {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sale {
+    color: #070211;
+}
 /* design of footer starts here */
 .xyz {
     width: 100%;
